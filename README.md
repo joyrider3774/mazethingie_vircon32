@@ -3,7 +3,7 @@
 
 ![screenshot 1](screenshots/screenshot1.png)  ![screenshot 2](screenshots/screenshot2.png)
 
-This is the Vircon32 fantasy console version of my Mazethingie game which is a maze generator / game. I Initially developped this for learning how to generate mazes for the levels in Waternet. 
+This is the [Vircon32 fantasy console](http://www.vircon32.com/) version of my Mazethingie game which is a maze generator / game. I Initially developped this for learning how to generate mazes for the levels in Waternet. 
 
 ## Controls
 
