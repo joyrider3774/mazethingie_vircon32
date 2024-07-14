@@ -1,3 +1,8 @@
+#ifndef MAZETHINGIE_H
+#define MAZETHINGIE_H
+
+#include "libs/TextFonts/textfont.h"
+
 #define GSGame 0
 #define GSTitleScreen 1
 
@@ -23,10 +28,4 @@ int GameState = GSTitleScreen;
 int MazeWidth=MaxMazeWidth, MazeHeight=MaxMazeHeight, PlayerPosX=32, PlayerPosY=32, Selection = 1, xoffset = 0, yoffset = 0, framecount = 0, GameWon = 0;
 int[MaxMazeSize] Maze;
 
-struct SaveData {
-	int w;
-	int h;
-};
-
-game_signature GameSignature;
-
+#endif

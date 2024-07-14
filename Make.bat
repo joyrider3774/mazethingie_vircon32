@@ -8,7 +8,6 @@ echo.
 echo Compile the C code
 echo --------------------------
 compile Mazethingie.c -o obj\Mazethingie.asm || goto :failed
-
 echo.
 echo Assemble the ASM code
 echo --------------------------
